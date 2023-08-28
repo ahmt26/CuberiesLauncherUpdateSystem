@@ -1,5 +1,14 @@
-{"news1_picture":"https://cdn.discordapp.com/attachments/854435310367408198/1145615482091741234/mr.png",
- "news1_text":"",
- "news2_picture":"",
- "news2_text","",
-}
+[
+    {
+        "picture": "news3_picture",
+        "text": "Yeni haber ekledik!"
+    },
+    {
+        "picture": "news1_picture",
+        "text": "Eski haber 1"
+    },
+    {
+        "picture": "news2_picture",
+        "text": "Eski haber 2"
+    }
+]
